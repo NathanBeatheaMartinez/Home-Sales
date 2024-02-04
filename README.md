@@ -1,6 +1,6 @@
 # Home_Sales
 
-I was tasked with answering the following questions using SparkSQL:
+I was tasked with answering the following questions and used SparkSQL to do so:
 
 What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
